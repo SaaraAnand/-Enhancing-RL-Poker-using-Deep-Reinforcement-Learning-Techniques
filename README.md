@@ -1,0 +1,2 @@
+# -Enhancing-RL-Poker-using-Deep-Reinforcement-Learning-Techniques
+Poker has been considered a challenging problem in both artificial intelligence and games. Designing an effective optimal policy learning method has more realistic significance. This research project extensively explores and compares the efficacy of diverse reinforcement learning algorithms in training intelligent agents for Texas  Hold'em poker.
